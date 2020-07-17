@@ -9,9 +9,9 @@
 <br>With u1=3,u2=5 and w1,w2  ~  N(0,Q=10). Also e  ~  N(0,R=6)
 <br>
 <p>S2</p>
-<br> like S1 but Q=0
+<br>Like S1 but Q=0
 <br>
 p>S3</p>
-<br> like S1 but w1,w2 and e are from uniform distribution (-3,3)
+<br>Like S1 but the noises w1,w2 and e are from uniform distribution (-3,3)
 
 
