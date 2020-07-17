@@ -12,6 +12,6 @@
 Like S1 but Q=0
 <br>
 <br><p>S3</p>
-<br>Like S1 but the noises w1,w2 and e are from uniform distribution (-3,3)
+Like S1 but the noises w1,w2 and e are from uniform distribution (-3,3)
 
 
