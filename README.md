@@ -13,5 +13,5 @@ Like S1 but Q=0
 <br>
 <br><p>S3</p>
 Like S1 but the noises w1,w2 and e are from uniform distribution (-3,3)
-
+<br>
 
