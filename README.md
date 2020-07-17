@@ -1,9 +1,8 @@
 # Linear-Kalman-Filter
 <h1><b>Given 3 systems: S1,S2,S3</b></p></h1>
 <br>
-# S1
-<br>
-𝑥1(𝑘 + 1) = 0.8𝑥1(𝑘) + 2𝑥2(𝑘) + 𝑤1(𝑘) + 𝑢1
+<h1>S1</h1>
+<br>𝑥1(𝑘 + 1) = 0.8𝑥1(𝑘) + 2𝑥2(𝑘) + 𝑤1(𝑘) + 𝑢1
 <br> 𝑥2(𝑘 + 1) = 0.9𝑥2(𝑘) + 𝑤2(𝑘) + 𝑢2 
 <br> 𝑦(𝑘 + 1) = 𝑥1(𝑘 + 1) + 𝑥2(𝑘 + 1) + 𝑒(𝑘 + 1)
 <br> <p> For S1  were performed 12 simulations with different Q, R and initial state Χ0 </p>
