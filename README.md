@@ -8,7 +8,6 @@
 <br>
 <br>With u1=3,u2=5 and w1,w2  ~  N(0,Q=10). Also e  ~  N(0,R=6)
 <p> For S1  were performed 12 simulations with different Q, R and initial state Χ0 </p>
-<br>
 <h2>S2</h2>
 Like S1 but Q=0
 <br>
